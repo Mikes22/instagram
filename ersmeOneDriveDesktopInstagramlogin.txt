@@ -1,0 +1,10 @@
+[1mdiff --git a/login.txt b/login.txt[m
+[1mindex 341fd84..79fb913 100644[m
+[1m--- a/login.txt[m
+[1m+++ b/login.txt[m
+[36m@@ -2,4 +2,3 @@[m [mlogin with email and password[m
+ login with mobile number one time password[m
+ login with MFA[m
+ login with facial recognition[m
+[31m-login with finger print[m
+\ No newline at end of file[m
